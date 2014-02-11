@@ -1,0 +1,30 @@
+<div>
+  <div>{{session.title}}</div>
+  <div ng-repeat="speaker in session.speakers">
+    <a>{{speaker.name}}</a>
+  </div>
+  <div>{{session.date | date:'fullDate'}}</div>
+  <div>{{session.type}}</div>
+  <div>{{session.language}}</div>
+  <div ng-if="session.keynote">keynote</div>
+  <div ng-repeat="speaker in session.speakers">
+    <div>{{speaker.name}}</div>
+    <div ng-bind-html="speaker.bio">></div>
+  </div>
+  <div ng-if="session.media.joindin">
+    <a href="{{session.media.joindin}}" target="_blank">Joind.in</a>
+  </div>
+  <div ng-if="session.media.github">
+    <a href="{{session.media.github}}" target="_blank">Github</a>
+  </div>
+  <div ng-if="session.media.vimeo">
+    <iframe ng-src="{{trustSrc(session.media.vimeo)}}" width="500" height="300" frameborder="0"> </iframe>
+  </div>
+  <div ng-if="session.media.speakerdeck" style="width: 500px">
+    <script async class="speakerdeck-embed" data-id="{{session.media.speakerdeck}}" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  </div>  
+  <div ng-if="session.media.slideshare">
+    <iframe ng-src="{{trustSrc(session.media.slideshare)}}" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+  </div>
+  <div ng-bind-html="session.description"></div>
+<div>

@@ -1,0 +1,656 @@
+[
+    {
+        "id": "2014-11-29_a",
+        "speakers": [{
+            "name": "Pierluigi Pugliese",
+            "bio": "Pierluigi Pugliese è nel ramo informatico da così tanti anni da non ricordarsi più esattamente quando ha iniziato. Ha lavorato per svariati anni nel settore delle telecomunicazioni, sia come programmatore che come team leader, producendo software per telefoni cellulari di marche note.<br/>Al momento lavora come consulente e coach, supportando organizzazioni innovative nell'implementazione di soluzioni agili.<br/>Pierluigi opera tramite la sua ditta Connexxo, con sede a Monaco di Baviera, in Germania (www.connexxo.com, blog.connexxo.com)."
+        }],
+        "title": "Retrospettive creative. Come diventare un'eccellente facilitatore e supportare il continuous improvement dell'organizzazione",
+        "description": "Il nocciolo dell'agilità è la capacità di migliorarsi continuamente e le retrospettive sono la tecnica principe per raggiungere lo scopo. Ma… come facilitare al meglio una retrospettiva? Questo workshop presenta vari modi per raggiungere lo scopo, varie strutture per retrospettive e un'ampia serie di consigli pratici per la loro facilitazione.<br/><br/>È riconosciuto che le retrospettive sono lo strumento principe per supportare il miglioramento continuo del team. Ma nella pratica molti facilitatori utilizzano sempre lo stesso formato e gli stessi esercizi nelle loro retrospettive. Questo succede perché, nonostante la letteratura in materia abbondi di esercizi, non è di solito chiaro quando e come utilizzarli.<br/><br/>Questo workshop si propone di esplorare il mondo delle retrospettive da due punti di vista:<br/>Quello della struttura della retrospettiva: quali alternative sono possibili al classico formato descritto in \"Agile Retrospectives\" e come scegliere il formato più adatto alla situazione<br/>Quello del ruolo di facilitatore: quali sono gli elementi da considerare per facilitare al meglio una retrospettiva.",
+        "date": "2013-11-29",
+        "type": "Workshop",
+        "language": "Italiano",
+        "duration": "180",
+        "media": {
+            "joindin": "https://joind.in/talk/view/10146"
+        }
+    },
+    {
+        "id": "2014-11-29_b",
+        "speakers": [{
+            "name": "Stefano Leli",
+            "bio": "Appassionato di sviluppo software fin da bambino è sempre alla ricerca di nuovi spunti per migliorare il proprio lavoro. Nel 2003 sente casualmente parlare del manifesto agile e inizia titubante a praticare XP. Da quel momento il suo approccio allo sviluppo non è stato più lo stesso e non ha più abbandonato l'adozione delle metodologie agili.<br/>Attualmente svolge attività di sviluppo software, training e coaching con particolare enfasi nell'introduzione di metodologie agili."
+        },
+        {
+            "name": "Giulio Roggero",
+            "bio": "Mi appassiona lavorare a progetti sfidanti, costruire prodotti innovativi e portare valore al mercato velocemente. In veste di lean-agile coach aiuto le aziende a velocizzare le loro iniziative.<br/>Le \"distruptive  technologies\" sono la mia passione e non smettero' mai di essere uno sviluppatore!<br/>Penso che il modo migliore per insegnare agli altri e' quello di sperimentare prima la teoria sulle proprie iniziative. Per questo che sono un imprenditore e uno startupper che cerca di imparare dai propri errori.<br/>Mobile only e HTML5 e' il mio mantra - http://isolasoftware.it."
+        }],
+        "title": "Dalla Vision al Prodotto. Abbattere le barriere di comunicazione con i Canvas",
+        "description": "La comunicazione tra le persone è il primo valore dell'Agile. Trasmettere la vision di un'idea è molto difficile. Attraverso i Canvas è possibile non solo condividere la vision ma anche il viaggio che porterà alla realizzazione dell'intero prodotto.<br/><br/>Adottando i vari Canvas come il Business Model Canvas, il Lean Canvas e il Product Canvas è possibile definire e condividere le ipotesi iniziali, validarle sul mercato misurando i risultati e confrontarle con i risultati attesi. I Canvas quindi non solo ci aiutano nella parte iniziale del progetto ma ci accompagnano per tutto il ciclo di vita del prodotto evolvendo con esso.<br/><br/>Questi concetti non sono strettamente legati al software ma possono essere applicati in contesti differenti.<br/>Durante questo workshop vedremo insieme come, partendo da un'idea, si possa realizzare un prototipo di applicazione mobile in meno di due ore… il tutto sotto forma di gioco.",
+        "date": "2013-11-29",
+        "type": "Workshop",
+        "language": "Italiano",
+        "duration": "90",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/28748636",
+            "joindin": "https://joind.in/talk/view/10148"
+        }
+    },
+    {
+        "id": "2014-11-29_c",
+        "speakers": [{
+            "name": "Carlo Bottiglieri",
+            "bio": "Carlo è giunto all'agile tramite il design e le pratiche tecniche legate allo sviluppo OO. Da sempre affezionato a XP, per anni ha tentato di lavorare e costruire team che ne applichino i principi e le pratiche. A volte ha pure funzionato.<br/>Sin dai primi progetti in Italia Carlo si è concentrato sul design del codice, il testing automatico e le minuzie del tdd. Negli ultimi anni ha passato molto tempo a reclutare e formare sviluppatori per i suoi team di sviluppo, agendo ogni tanto da analista, ogni tanto da designer e a volte da coach sornione.<br/>Ora vive e lavora in Svizzera come responsabile del design e dell'architettura per la Software Factory Nespresso HQ, un gruppo di circa 50 sviluppatori che si occupa di tutti gli sviluppi custom sui sistemi internazionali di Nespresso."
+        }],
+        "title": "Introduzione al TDD. Una introduzione al test driven development e il suo legame col design",
+        "description": "Il test driven development è spesso piuttosto difficile. Questa sessione non lo renderà più facile, tenterò invece di spiegare perché è difficile e perché, dopo tutto, ne vale la pena.<br/><br/>Alcuni argomenti che tratterò in questo workshop:<br/>- Note sulle dinamiche dello sviluppo software (perché non abbiamo mai il tempo per scrivere quei test)<br/>- Il ruolo del design nel tdd<br/>- L'importanza di non perdere tempo a scrivere il codice mentre si programma<br/>- La natura arborea dei test per il design<br/>- Valutare se e come framework e librerie supportano il testing, e cosa fare se hai preso quelle sbagliate<br/>- Interessanti alternative al tdd (no, non \"solo programmare\")<br/>- Qualche nota su come introdurre il test driven development in un progetto e un team esistenti<br/>- Utili principi di design, pattern e altri parafernalia<br/>- Un sacco di pratica e discussione<br/>Un laptop con un IDE Java aumenterà di molto il piacere (o la sofferenza) del workshop.",
+        "date": "2013-11-29",
+        "type": "Workshop",
+        "language": "Italiano",
+        "duration": "180",
+        "media": {
+            "github": "https://github.com/inverno/textural",
+            "joindin": "https://joind.in/talk/view/10152"
+        }
+    },
+    {
+        "id": "2014-11-29_d",
+        "speakers": [{
+            "name": "Gabriele Lana",
+            "bio": "Mi definisco con orgoglio \"programmatore\". Ho iniziato da bambino verso la fine degli anni '80, l'amore e la passione che si respiravano per questo mestiere in quegli anni non mi ha più abbandonato. Ad oggi ho accumulato 15 anni di esperienze professionali in molti campi: automazione industriale (soft real-time), medicale, bancario, assicurativo, monitoraggio di sistemi critici, ho realizzato server per videogiochi online, un motore di ricerca distribuito, oggi lavoro su una piattaforma di micropagamenti.<br/>Tutti mi vedono come una persona estremamente organizzata e produttiva, la verità è che sono sempre stato un grande procrastinatore, fino all'inizio del 2000 quando ho iniziato a studiare ed applicare le metodologie Agili unite a tecniche di produttività personale come la \"tecnica del pomodoro\" che applico con disciplina tutti i giorni. Le metodologie Agili mi hanno dato molto in questi anni, nel 2004 ho fondato il Milano eXtreme Programming User Group di cui ancora oggi sono il coordinatore, ho imparato a governare la complessità in maniera incrementale, ho imparato a gestire la mia paura di non farcela attraverso il feedback e il coraggio e ho imparato che gli esseri umani sono sempre la parte più importante del progetto.<br/>Dopo tutti questi anni, dopo più di un centinaio di progetti, dopo aver lavorato con centinaia di programmatori, ho capito che ho ancora moltissimo da imparare, ma va bene perché oggi per me programmare è gioia, esattamente come lo era 25 anni fa."
+        }],
+        "title": "Coderetreat. Honor your Craft",
+        "description": "Migliaia di programmatori nel mondo hanno onorato la loro disciplina partecipando ad un coderetreat, fallo anche tu all'AgileDay<br/><br/>Il coderetreat è un format noto che viene ripetuto molte volte durante l'anno in molte parti del mondo, dal sito ufficiale (http://coderetreat.org/about)<br/><i>\"Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice, away from the pressures of ‘getting things done', the coderetreat format has proven itself to be a highly effective means of skill improvement. Practicing the basic principles of modular and object-oriented design, developers can improve their ability to write code that minimizes the cost of change over time.\"</i><br/><br/>La giornata si divide in iterazioni, ogni iterazione di un ora è organizzata nel seguente modo:<br/>45 minuti di esercizio<br/>~10 minuti di retrospettiva (obiettivo quello di condividere brevemente le impressioni dell'ultimo esercizio, eventualmente di aggiustare il tiro per le iterazioni successive, formare le coppie per la prossima iterazione)<br/>~5 minuti di pausa (tirare un po' il fiato, fisicamente rilocarsi sui tavoli).<br/><br/><b>Regole:</b><br/>il codice prodotto viene cancellato (rigorosamente) alla fine di ogni iterazione<br/>le coppie cambiano di continuo<br/><br/><b>Dotazione:</b><br/>e' consigliato venire con un laptop con almeno un ambiente di sviluppo e un framework per i test unitari installato. Tecnicamente basta averne solo uno per coppia, ma per non rischiare, chi puo' lo porti in ogni caso.<br/>Facendo il cambio di coppie potrà anche capitare di lavorare con qualcuno che usi un linguaggio diverso che magari non si conosce. Comunque i facilitatori si impegneranno a favorire le diverse esigenze e interessi. La giornata serve soprattutto per imparare, possibilmente divertendoci. Lo scopo non e' di arrivare a finire il problema, quanto piu' quello di raffinare sempre di piu' l'approccio con cui lo si affronta.",
+        "date": "2013-11-29",
+        "type": "Workshop",
+        "language": "Italiano",
+        "duration": "360",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/28928970",
+            "joindin": "https://joind.in/talk/view/10155"
+        }
+    },
+    {
+        "id": "2014-11-29_e",
+        "speakers": [{
+            "name": "Andrea Provaglio",
+            "bio": "Andrea Provaglio assiste aziende IT e, più in generale, quelle basate sul knowledge work nel mettere in atto modi migliori di fare business.<br/>Unisce le pratiche Agile/Lean con gli aspetti sociali e culturali delle Learning Organizations, per favorire una transizione verso moderni modelli di management.<br/>Affianca inoltre, con partiche di coaching, individui e team che vogliono migliorare sul piano sia tecnico che relazionale.<br/>In oltre vent'anni di esperienza professionale, ha lavorato in tre diversi continenti, con clienti che vanno dalle Nazioni Unite fino ad aziende piccole e dinamiche.<br/>Maggiori informazioni sono disponibili su: http://andreaprovaglio.com e http://linkedin.com/in/provaglio"
+        }],
+        "title": "Leading Self-organizing Teams",
+        "description": "La tua azienda ha adottato un approccio Agile, ma le persone nel tuo team non mostrano il livello di partecipazione e responsabilità che speravi? I processi decisionali non funzionano ancora bene? La leadership è confusa? Il morale del team è basso?<br/>Allora non stai ottenendo alcuni dei benefici che una mentalità Agile – e, in particolar modo, l'auto-organizzazione – può portare in un gruppo di lavoro.<br/><br/>Durante questo workshop vedremo, tramite brevi spiegazioni, discussioni aperte e esercizi pratici, perché l'auto-organizzazione è così importante, quali fattori la ostacolano, e come creare un ambiente di lavoro che la supporta.<br/>Il workshop è rivolto a team leader, a manager; e, in generale, a chiunque sia nella posizione di orientare un gruppo di lavoro verso un obiettivo condiviso, lasciando al gruppo l'autonomia di prendere decisioni che lo riguardano e che siano allineate con l'obiettivo stesso.<br/><br/>I partecipanti avranno modo di discutere e sperimentare approcci legati ai seguenti temi:<br/>creare allineamento tramite meeting efficaci<br/>co-creare obiettivi condivisi<br/>assistere i manager nell'essere leader e facilitatori di cambiamenti<br/>posizionarsi al proprio corretto livello di guida nel team<br/>uscire da una cultura di attribuzione di colpe (blaming culture)<br/>migliorare la gestione di conflitti<br/><br/>I partecipanti saranno coinvolti in esercizi pratici e guidati, con i quali sperimentare in prima persona i concetti esposti. Molti di questi esercizi possono essere riportati nella propria organizzazione come strumenti per migliorare la comunicazione e partecipazione nel team.",
+        "date": "2013-11-29",
+        "type": "Workshop",
+        "language": "Italiano",
+        "duration": "180",
+        "media": {
+            "joindin": "https://joind.in/talk/view/10156"
+        }
+    },
+    {
+        "id": "2014-11-29_f",
+        "speakers": [{
+            "name": "Matteo Vaccari",
+            "bio": "Sono appassionato di sviluppo software da sempre. Ho lavorato come sviluppatore individuale per molti anni per poi rendermi conto che non ero in grado di collaborare in maniera efficace con gli altri sviluppatori.<br/><br/>Ho sentito parlare di Extreme Programming (XP) dal 2000, ma è stato solo nel 2004 che qualcosa ha fatto \"clic\" e da allora sono fortemente convinto che non ci sia un metodo di sviluppo più efficace.<br/><br/>Lavoro come consulente, trainer e coach."
+        }],
+        "title": "The Birthday Greetings Kata. Impara a separare il modello del dominio dall'infrastruttura con l'architettura esagonale",
+        "description": "Come creare codice flessibile? Una regola di base è dare a ciascun oggetto una sola responsabilità ben definita. Vogliamo che la nostra logica applicativa sia semplice; che esprima chiaramente le regole del business; e che sia separata dalla logica che gestisce transazioni e persistenza, dalle API di terze parti, o altri servizi di infrastruttura. Il codice ben fattorizzato è così semplice che sembra \"codice giocattolo\" (Lance Walton).<br/><br/>Per ottenere questo obiettivo, possiamo strutturare la nostra applicazione secondo l'architettura esagonale, anche chiamata \"ports and adapters\", resa famosa da Alistair Cockburn. In questa architettura il codice del dominio sta al centro, mentre l'infrastruttura sta intorno. Le dipendenze a livello di codice sorgente puntano tutte dall'infrastruttura al dominio e non viceversa. La clean architecture di Uncle Bob è molto simile.<br/><br/>Il \"Birthday Greetings Kata\" è un semplice esercizio che ho inventato per me e i miei colleghi; serve a capire bene come applicare l'architettura esagonale in pratica. Dal 2009 questo esercizio è stato presentato a diverse conferenze. In questa occasione voglio ripresentare l'esercizio in un formato leggermente diverso: non come un esercizio di refactoring ma come un esercizio di ATDD.<br/>Maggiori informazioni: http://matteo.vaccari.name/blog/archives/154",
+        "date": "2013-11-29",
+        "type": "Workshop",
+        "language": "Italiano",
+        "duration": "180",
+        "media": {
+            "github": "https://github.com/xpmatteo/birthday-greetings-kata",
+            "joindin": "https://joind.in/talk/view/10158"
+        }
+    },
+    {
+        "id": "2014-11-29_g",
+        "speakers": [{
+            "name": "Marco Trincardi",
+            "bio": "Sono un coach e sviluppatore senior, faccio parte del team Orione di Xpeppers<br/>Il mio interesse per le metodologie agili è cominciato nel 2003 e continua tuttora.<br/>Mi sento un generalista, una persona a cui piace l'aspetto tecnico / tecnologico dei problemi ma a cui interessano anche il miglioramento dei processi aziendali e la comprensione delle dinamiche interne ed esterne al team."
+        }],
+        "title": "Come comprendere la cultura aziendale e vivere felici (o almeno consapevoli)",
+        "description": "Comprendere la cultura aziendale in cui ci si trova a lavorare è fondamentale per interpretarne valori e messaggi, e capire come trattarli quando si vuole parlare di agile (sopratutto in un contesto poco agile)<br/><br/>Chiunque abbia cercato di introdurre metodi Agili, si è spesso scontrato con resistenze ed incomprensioni.<br/>In alcuni casi, il livello di incomprensione porta ad avere la sensazione di parlare lingue diverse.<br/>Per spiegare cosa accade, e per trovare delle soluzioni, il workshop propone una chiave di lettura basata sulla definizione di cultura aziendale.<br/>I partecipanti saranno coinvolti in una serie di attività, da cui emergeranno tematiche quali :<br/>Cos'è la cultura aziendale e perché è importante parlarne.<br/>Come individuare tipologie di cultura aziendale e quali caratteristiche hanno.<br/>Se Agile fosse una cultura, esiste una tipologia di riferimento?<br/>Quali valori agili sono compatibili con la cultura circostante.<br/>Quali azioni sono più efficaci per superare le resistenze.<br/>E' possibile cambiare la cultura aziendale?",
+        "date": "2013-11-29",
+        "type": "Workshop",
+        "language": "Italiano",
+        "duration": "90",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/30672013",
+            "joindin": "https://joind.in/talk/view/10190"
+        }
+    },
+    {
+        "id": "2014-11-29_h",
+        "speakers": [{
+            "name": "Andrea Rodriguez",
+            "bio": "Lavoro in ICT da ca. 25 anni, per la maggior parte in qualità di consultant e contractor, ricoprendo ruoli di developer, architect e specialist; sono membro di AICA, IEEE ed ICAA. Fra i miei interessi metto networking, ARG, gaming e gamification, security, pc-forensics ed hacking, vela e moto. Seguo le metodologie Agile e la relativa comunità dal 2000, anni nei quali ho iniziato a sperimentare – e poi approfondire – XP, Scrum ed FDD; sono uno dei fondatori del XPUG Genovese, alla crescita del quale tengo molto. CSM c/o ScrumAlliance per passione ed interesse personale, mi dedico a sviluppo, formazione e coaching di Team in Softeco."
+        },
+        {
+            "name": "Raoul Buzziol",
+            "bio": "Raoul Buzziol da più di dieci anni si occupa di sviluppo, architetture, semplicità e cerca di aiutare i team e le aziende a migliorarsi continuamente.<br/>Certified ScrumMaster per passione per il proprio percorso di crescita.<br/>Avido frequentatore di conferenze agili e tecnologiche.<br/>Entusiasta agilista e assiduo sostenitore del XPUG di Genova.<br/>Feroce implementatore di bachi presso Softeco. http://www.linkedin.com/in/raoulbuzziol e https://twitter.com/raoulbuzziol"
+        }],
+        "title": "Instilling Scrum",
+        "description": "Perché Scrum? Come si fa? Cosa ci guadagno? Impara le basi del processo empirico realizzando il tuo prodotto in maniera iterativa e incrementale... giocando.<br/><br/>Scrum è un processo di sviluppo che sta diventando mainstream in molti ambienti. Non è qualcosa che si può installare, ma \"immettere a piccole stille\" (diz.). Per comprenderne le ragioni e l'efficacia è necessario sperimentarlo di persona ed il modo migliore per iniziare è attraverso la pratica; il workshop è orientato alla realizzazione di un prodotto guidata da una vision, contando su uno dei più potenti strumenti di apprendimento: il gioco. Non mancheranno impedimenti, ma un efficace team auto organizzato conseguirà il successo... in maniera iterativa ed incrementale!",
+        "date": "2013-11-29",
+        "type": "Workshop",
+        "language": "Italiano",
+        "duration": "180",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/28859189",
+            "joindin": "https://joind.in/talk/view/10157"
+        }
+    },
+    {
+        "id": "2014-11-30_a",
+        "speakers": [{
+            "name": "J.B. Rainsberger",
+            "bio": "J. B. Rainsberger is a Canadian software development consultant and technology writer, best known for his contributions to agile development.<br/>He is the founder of XPDay North America. He is also well known for his book, JUnit Recipes: Practical Methods for Programmer Testing.<br/>He is a frequent speaker at conferences around the world, and an important contributor to public discussions that further the state of the art."
+        }],
+        "title": "The next decade",
+        "description": "Two years ago, I looked back at over a decade of progress in the community of Agile software development practitioners. I talked about some alarming trends in our attitudes, our practices and what we teach, but also described the ways in which I believe we'd really advanced the art of software development.<br/>Now, I explore a more interesting question: Where do we go from here? Those alarming trends haven't all gone away. In fact, some have got worse, and I want to highlight some of things that I think we really need to stop before they destroy all the credibility we've built.<br/>Of course, the picture is not bleak: we've helped make software development better for so many people, and I'll talk about where I'd like us to focus our considerable energy to help make the coming decade even better for our field and the lives of our colleagues.",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "keynote": "true",
+        "language": "Inglese",
+        "duration": "45",
+        "media": {
+            "vimeo": "//player.vimeo.com/video/81926741",
+            "speakerdeck": "a9fb0b80289a013104c406d41297f24c",
+            "joindin": "https://joind.in/talk/view/10159"
+        }
+    },
+    {
+        "id": "2014-11-30_b",
+        "speakers": [{
+            "name": "Pierluigi Pugliese",
+            "bio": "Pierluigi Pugliese è nel ramo informatico da così tanti anni da non ricordarsi più esattamente quando ha iniziato. Ha lavorato per svariati anni nel settore delle telecomunicazioni, sia come programmatore che come team leader, producendo software per telefoni cellulari di marche note.<br/>Al momento lavora come consulente e coach, supportando organizzazioni innovative nell'implementazione di soluzioni agili.<br/>Pierluigi opera tramite la sua ditta Connexxo, con sede a Monaco di Baviera, in Germania (www.connexxo.com, blog.connexxo.com)."
+        }],
+        "title": "Come scegliere un coach agile?",
+        "description": "Molte organizzazioni si appoggiano a dei coach agili per essere supportati in una transizione agile ma... come si sceglie una tale figura professionale? E che tipi di coach agili ci sono? Questa presentazione interattiva vuole fornire una struttura per identificare la persona più adatta alle vostre necessità!<br/>Per vari motivi, nel corso degli anni mi sono ritrovato di frequente a dover selezionare persone per vari ruoli professionali: programmatori, manager a vari livelli, ScrumMasters, Product Owners, etc. Ma la complessità maggiore l'ho riscontrata nella selezione dei coach agili in quanto sotto questo nome comune si ritrovano vari tipi di figure professionali con varie skills e varie possibilità di inserimento all'interno dell'organizzazione.<br/>Saper distinguere tra i vari \"tipi\" di coach agili e capire qual'è quello più utile per la vostra organizzazione è, a mio parere, un'elemento molto importante per il successo di una transizione agile.<br/>Vedremo anche dei casi pratici di coach agilli e di organizzazioni, per mettere in pratica quanto appreso.",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "vimeo": "//player.vimeo.com/video/81136301",
+            "joindin": "https://joind.in/talk/view/10160"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    },
+    {
+        "id": "2014-11-30_",
+        "speakers": [{
+            "name": "",
+            "bio": ""
+        }],
+        "title": "",
+        "description": "",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "joindin": "https://joind.in/talk/view/"
+        }
+    }
+]

@@ -1,0 +1,45 @@
+<div>
+  <div>
+    <div>
+      Cerca: <input ng-model="textQuery"/>
+      Tipo 
+      <select ng-model="typeQuery">
+        <option value=""></option>
+        <option value="Talk">Talk</option>
+        <option value="Workshop">Workshop</option>
+      </select>
+      Lingua 
+      <select ng-model="languageQuery">
+        <option value=""></option>
+        <option value="Italiano">Italiano</option>
+        <option value="Inglese">Inglese</option>
+      </select>
+      Data 
+      <select ng-model="dateQuery">
+        <option value=""></option>
+        <option value="2013-11-29">29/11/2013</option>
+        <option value="2013-11-30">30/11/2013</option>
+      </select>
+    </div>
+    <div>
+      Ordina per:
+      <select ng-model="orderProp">
+        <option value="title">Titolo</option>
+        <option value="date">Data</option>
+      </select>
+    </div>
+    <div>
+      <ul>
+        <li ng-repeat="session in sessions | filter:textQuery | filter:{type:typeQuery,language:languageQuery,date:dateQuery} | orderBy:orderProp">
+          <a href="#/sessions/{{session.id}}">{{session.title}}</a>
+          <br/>
+          {{session.date | date:'dd/MM/yyyy'}} - {{session.type}} - {{session.language}}<span ng-if="session.keynote"> - keynote</span>
+          <br/>
+          di <speaker ng-repeat="speaker in session.speakers">
+            <span>{{speaker.name}}</span>&nbsp;&nbsp;
+          </speaker>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
