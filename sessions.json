@@ -178,479 +178,182 @@
         }
     },
     {
-        "id": "2014-11-30_",
+        "id": "2014-11-30_c",
         "speakers": [{
-            "name": "",
-            "bio": ""
+            "name": "Fabio Armani",
+            "bio": "Fabio Armani attualmente ricopre il ruolo di CTO e CEO presso importanti società d'informatica con una spiccata vocazione per il Lean e l'Agile. La sua attività di consulenza è relativa ad aspetti sia tecnologici, sia umani dello sviluppo software. Tiene corsi professionali in merito alle metodologie agili ed alle architetture Object Oriented. Si considera una persona dalla mentalità aperta e pragmatica.\nCome imprenditore, ha fondato e gestito una società di consulenza OpenWare ed un'etichetta musicale indipendente Different Lands specializzata nella World Fusion.\nFabio ha un laurea in Astrofisica ed ha lavorato nel settore dell'IT da oltre 25 anni, sia come ricercatore senior che come manager. Vive a Roma con la moglie Emilia e due splendidi figli (Giulia e Luca).\nE' certificato PMI, Scrum Pratictioner e ScrumMaster, sta completando le fasi di certificazione in qualità di Scrum Trainer presso la Scrum Alliance. Esperto di metodologie agili, sia per quanto riguarda il processo di adozione che la loro divulgazione, coaching e mentoring, svolge tramite OpenWare un'importante opera di diffusione della conoscenza e di consulenza professionale.\nE' inoltre compositore di musica jazz ed elettronica e suona con un proprio ensemble di world fusion chiamato Terre Differenti"
         }],
-        "title": "",
-        "description": "",
+        "title": "Alla ricerca del filo rosso",
+        "description": "Fabio Armani attualmente ricopre il ruolo di CTO e CEO presso importanti società d’informatica con una spiccata vocazione per il Lean e l’Agile. La sua attività di consulenza è relativa ad aspetti sia tecnologici, sia umani dello sviluppo software. Tiene corsi professionali in merito alle metodologie agili ed alle architetture Object Oriented. Si considera una persona dalla mentalità aperta e pragmatica.<br/>Come imprenditore, ha fondato e gestito una società di consulenza OpenWare ed un’etichetta musicale indipendente Different Lands specializzata nella World Fusion.<br/>Fabio ha un laurea in Astrofisica ed ha lavorato nel settore dell’IT da oltre 25 anni, sia come ricercatore senior che come manager. Vive a Roma con la moglie Emilia e due splendidi figli (Giulia e Luca).<br/>E’ certificato PMI, Scrum Pratictioner e ScrumMaster, sta completando le fasi di certificazione in qualità di Scrum Trainer presso la Scrum Alliance. Esperto di metodologie agili, sia per quanto riguarda il processo di adozione che la loro divulgazione, coaching e mentoring, svolge tramite OpenWare un’importante opera di diffusione della conoscenza e di consulenza professionale.<br/>E’ inoltre compositore di musica jazz ed elettronica e suona con un proprio ensemble di world fusion chiamato Terre Differenti",
         "date": "2013-11-30",
         "type": "Talk",
         "language": "Italiano",
         "duration": "45",
         "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/28777383",
+            "joindin": "https://joind.in/talk/view/10161"
+        }
+    },
+    {
+        "id": "2014-11-30_d",
+        "speakers": [
+            {
+                "name": "Carlo Bonamico",
+                "bio": "Carlo’s passion for Software Development began with his C128, then grew with Linux, Java/JavaScript, web & enterprise applications, and now to cloud & mobile. After a PhD and research experience at the University of Genova and the CNIT National Telecommunications Research Consortium, and an exciting time at startup Eptamedia, he’s now a Solution Architect and Senior Trainer at NIS s.r.l..<br/>His personal communication style as an architect and trainer, both technically precise and able to present in an engaging way complex topics to an heterogeneous audience has been appreciated online (slideshare presentation on hudson with over 110K views) and at many JUG / Community events from Javapolis 2005 (Quickie) to Codemotion Rome (2007-2013)"
+            },
+            {
+                "name": "Paolo Predonzani",
+                "bio": "Paolo Predonzani is co-founder of ManyDesigns and co-author of Portofino, the open source framework for enterprise applications. As a user and as a supplier, he has always sought a balance between features, time and architecture in enterprise software projects with Agile approaches."
+            }
+        ],
+        "title": "Wiki-like collaborative development for seamless customer involvement",
+        "description": "We have known for a long time that customer/developers constant collaboration is a key element of successful software projects and services. How can we reduce the \"impedance mismatch\" between even simple requirements such as a user story and the actual application?<br/>Behaviour Driven Development have proven effective thanks to collaboration with users on a textual description of the specifications which is subsequently \"completed\" by developers.<br/>How can we push the concept even further? how can we create a workflow where the specifications \"became\" progressively the application? a bit like documentation is progressively sketched and refined in a wiki?<br/>How can we implement these ideas today, with existing Open Source tools? what are the challenges? what are the limitations and issues yet to overcome? real-world experience is included.",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "joindin": "https://joind.in/talk/view/10182"
+        }
+    },
+    {
+        "id": "2014-11-30_e",
+        "speakers": [{
+            "name": "Giulio Roggero",
+            "bio": "Mi appassiona lavorare a progetti sfidanti, costruire prodotti innovativi e portare valore al mercato velocemente. In veste di lean-agile coach aiuto le aziende a velocizzare le loro iniziative.<br/>Le \"distruptive  technologies\" sono la mia passione e non smettero’ mai di essere uno sviluppatore!<br/>Penso che il modo migliore per insegnare agli altri e’ quello di sperimentare prima la teoria sulle proprie iniziative. Per questo che sono un imprenditore e uno startupper che cerca di imparare dai propri errori.<br/>Mobile only e HTML5 e’ il mio mantra - http://isolasoftware.it."
+        }],
+        "title": "Agile in 45 minuti",
+        "description": "E’ la prima volta che sentite parlare di Agile? Volete capire di cosa si tratti? Questo talk fa per voi!<br/>State provando ad applicare Agile ma avete ancora le idee confuse, Agile in 45 minuti vi mostrerà la strada da seguire.<br/>Scrum, Kanban, XP, Pomodoro Technique, Agile Manifesto e altro ancora saranno i protagonisti di questa sessione.<br/>45 minuti sono pochi? Sara’ una vera e propria sessione Lean, fluente ed essenziale, portate carta e penna per gli appunti!",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/28771756",
+            "joindin": "https://joind.in/talk/view/10163"
+        }
+    },
+    {
+        "id": "2014-11-30_f",
+        "speakers": [{
+            "name": "Alessandro Bonometti",
+            "bio": "Professionista IT da oltre 10 anni, da qualche anno lavoro in una PMI bresciana leader nel settore dei gestionali di farmacia e del software di dispensazione farmaci (circa 40 dev)<br/>Il mio lavoro non è facilmente \"boxabile\": sono Dev, Project Manager, Scrum Master, CTO, reponsabile tecniche agili/lean e formazione, coach, libero pensatore :-)"
+        }],
+        "title": "Dalle stalle alle stelle: viaggio attraverso la \"Agile Fluency\"",
+        "description": "Una PMI, leader nel suo settore, da tempo incamminata sulla strada dell’agile.<br/>Tre team di sviluppo, ognuno con il suo prodotto e il suo PM, che hanno lottato per anni di contro codice e pratiche legacy, vincendo: TDD, Pair programming, Acceptance Tests, Continuous Integration, erano ormai la normalità quotidiana. Doveva essere il Nirvana degli sviluppatori, ma qualcosa ancora non andava…<br/>Il matrimonio di un collega, un open bar vista lago e un’idea che si fa strada: non fermiamoci qui!<br/>Nel giro di pochi mesi i tre team diventano un unico team cross-prodotto. I PM diventano (proxy) PO. Viene eletto uno Scrum Master…sembrava una difficoltà insormontabile, e invece nel giro di pochi mesi il delivery è radicalmente migliorato e gli sviluppatori…<br/>Come è cominciato il viaggio? Da dove siamo partiti? Che strumenti abbiamo utilizzato? Quali ostacoli abbiamo dovuto schivare? Dove siamo adesso? Dove vogliamo arrivare?",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "joindin": "https://joind.in/talk/view/10164"
+        }
+    },
+    {
+        "id": "2014-11-30_g",
+        "speakers": [{
+            "name": "Uberto Barbini",
+            "bio": "Started programming at ZxSpectrum times and never stopped. Worked in C, Delphi, Python, Java, Scala. Recently is working as contractor for many companies, from startup to enterprise.<br/>He’s passionate about Agile and code well written (OO and Functional)."
+        }],
+        "title": "When TDD goes awry",
+        "description": "A voyage into today Java enterprise worse practices.<br/>Have you ever seen 10 mocks used to tests a couple of lines of code?<br/>Beans with tons of getters/setters?<br/>The same code repeated all over again with little differences?<br/>The three pasta antipattern: spaghetti, ravioli and lasagna.<br/>From my personal experience, some examples of terrible code, written trying to follow industry best practices and tdd.<br/>Understanding the design and the goals, will help to find the way to improve it.",
+        "date": "2013-11-30",
+        "type": "Talk",
+        "language": "Italiano",
+        "duration": "45",
+        "media": {
+            "vimeo": "//player.vimeo.com/video/81143682",
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/28872978",
             "joindin": "https://joind.in/talk/view/"
         }
     },
     {
-        "id": "2014-11-30_",
+        "id": "2014-11-30_h",
         "speakers": [{
-            "name": "",
-            "bio": ""
+            "name": "Donato Mangialardo",
+            "bio": "I help companies to learn, define/validate/build/market products for repeatable success. The market-driven, agile/lean way.<br/>My customers value my ability to uncover or provide alignment with their customers (potential and existing). It can be a new product or service, a change in the existing one(s), or just a new way to communicate its value; it can be a new way to work to increase quality, production and opportunities. It can be focused internally (Coaching, from User Stories to Product Portfolio Strategy, ) or externally (Connecting with, Reaching and above all \"Be Reached\" by customers)<br/>Focus: by making sure solutions solve real-world problems for real-world people. By channelling the market voice (buyers, problems, needs) into the business. With an Agile/Lean and pragmatic way. As an example, by using the Personas, Lean Canvas tools.<br/>I possess an extensive international experience in Software, Product Management/Marketing and Business Strategy in both California’s Silicon Valley (10 years) and Italy (9 years), where I had the opportunity to learn, make mistakes, and learn more.<br/>I have been consistently successful in using mistakes and learning in order to formulate and drive clear business and product strategies, positioning, programs and team building in diverse organizations with different products, technologies, business models and geographies/cultures. From 3D Design Tools to Enterprise SaaS. Bridging between technical and business people facilitating clarity of direction is what I started doing since my first day. I have then established effective product development, management and marketing practices in companies with confused product lines, unclear strategies and fragmented, unmotivated teams."
         }],
-        "title": "",
-        "description": "",
+        "title": "Product Owner? Owner di cosa? Prodotto o Progetto?",
+        "description": "Product Owner. Ma la \"P\" significa Prodotto o Progetto? Spesso alcuni pensano \"Prodotto\" mentre altre pensano \"Progetto\", e altre ancora pensano Prodotto i giorni pari e Progetto i giorni dispari, oppure come conviene al momento. E viene dil mal di pancia. Ma forse stiamo guardando il Prodotto sbagliato?<br/>Vediamo prima le differenze tra Prodotto e Progetto/Servizio, con esempi reali che derivano proprio da questo \"dilemma\".<br/>Uno non e’ meglio dell’altro, ma spesso si vedono organizzazioni in cui alcune persone pensano Prodotto mentre altre pensano Progetto, e altre ancora pensano Prodotto o Progetto a seconda della convenienza personale. E vengono dei gran mal di pancia. Spesso si pensa che \"facciamo Servizi o Progetti/Prodotti per i ns clienti, mentre invece il ns reale Prodotto [qualcosa che incontra la domanda ed il bisogno di n clienti alla volta] e’ la ns. capacita’ di fornire un certo servizio in un certo campo in modo ripetibile, su cui attorno abbiamo creato un business<br/>Una volta partiti con Lean/Agile (o a meta’ del guado) serve un allineamento costante tra mercato reale [gruppo di buyers potenziali ed utenti con problemi comuni, e quali sono questi problemi], management, vendite, development, epiche che il Boss capisce, e anche la P di \"Personas\". Questo allineamento manca troppo spesso. Ma perche’ soffrire?? Ci sono seplici strumenti che ci semplificano la vita, a partire da domani, basta partire…<br/>Strumenti utilizzati nei Case Study<br/>- Lean Canvas<br/>- Personas \"quelle che fatte bene le usano anche i commerciali\"<br/>- MVP (Minimal Viable Lean Canvas, Minimal Viable Personas, …)",
         "date": "2013-11-30",
         "type": "Talk",
         "language": "Italiano",
         "duration": "45",
         "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
+            "joindin": "https://joind.in/talk/view/10166"
         }
     },
     {
-        "id": "2014-11-30_",
+        "id": "2014-11-30_i",
         "speakers": [{
-            "name": "",
-            "bio": ""
+            "name": "Stefano Maraspin",
+            "bio": "Stefano (Steve) è managing partner di MV Labs. Si occupa di applicazioni web per Internet, intranet e mobile, assieme al suo team, seguendo un approccio agile e incentrato sull’utente. Laureato in informatica, ha collaborato con il laboratorio TASC dell’Istituto Nazionale di Fisica per la Materia e la Sincrotrone Trieste S.C.p.A, occupandosi di Computer Supported Collaborative Work, oltre che di sistemi per la diagnostica. Ha in seguito guidato lo sviluppo di una suite di log management (SecureLog) in ambito enterprise. Dal 2010 è managing partner di MV Labs. Suoi interessi professionali sono lo sviluppo software con metodologie agili e incentrate sull’utente, nonchè le architetture Internet."
         }],
-        "title": "",
-        "description": "",
+        "title": "Outcome not Output",
+        "description": "Le pratiche agili aiutano a domare incognite e complessità dei progetti software, riuscendo in molti casi a garantire la produzione di codice di buona qualità. Ma è ciò sufficiente? Cosa succede al manifesto agile quando a un progetto lavorano più team? E poi, ok user story; ma come raccoglierle? E in base a cosa prioritizzarle? Saranno quelle che vuole il cliente? E soprattutto, sará ciò importante? Se queste domande t’incuriosiscono, segui il talk. Avremo la possibilitá di confrontarci e imparare, ragionando assieme su questi dubbi, che porrò come spunto di riflessione, per poi condividere la mia esperienza.<br/>I progetti software sono colmi di rischi e incognite. Gli approcci agili aiutano a controllare questi pericoli, e spesso anche a rilasciare codice sorgente di buona qualità. Ma è ciò sufficiente a garantire il successo di un progetto? Le user story sono sempre lo strumento giusto con cui partire? Nella realtà, quando lavoriamo tra team diversi riusciamo sempre a rispettare gli individui e valorizzare le interazioni? Negli ultimi 18 mesi abbiamo introdotto e sperimentato all’interno del nostro team diverse pratiche derivanti da approcci agili e user centered. In questo talk condivido e argomento le pratiche che si sono dimostrate più efficaci, ponendo enfasi su un principio fondamentale della Lean UX: Outcome, not output.",
         "date": "2013-11-30",
         "type": "Talk",
         "language": "Italiano",
         "duration": "45",
         "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
+            "joindin": "https://joind.in/talk/view/10167"
         }
     },
     {
-        "id": "2014-11-30_",
+        "id": "2014-11-30_j",
         "speakers": [{
-            "name": "",
-            "bio": ""
+            "name": "Andrea Francia",
+            "bio": "Andrea scrive test e rompe dipendenze per vivere.<br/>Sviluppa siti eCommerce e pubblica applicazioni mobile."
         }],
-        "title": "",
-        "description": "",
+        "title": "TDD anche su iOS",
+        "description": "Test Driven Development su iOS è possibile e persino utile.<br/>Invece di leggere blog post che sottointendono che TDD su iOS sia difficile e inutile venite a vedere chi lo usa sul serio e ha il coraggio di programmare ad una conferenza davanti ad altre persone.<br/>Avvertenze:<br/>questo talk non contiene paternali sul perché si dovrebbe (o non si dovrebbe) fare TDD<br/>in questo talk non verranno usati strumenti complicati<br/>in questo talk verrà scritto ed eseguito codice dal vivo<br/>Dopo una brevissima introduzione passerò a sviluppare guidato dai test una semplice applicazione per iPhone.",
         "date": "2013-11-30",
         "type": "Talk",
         "language": "Italiano",
         "duration": "45",
         "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/28783564",
+            "joindin": "https://joind.in/talk/view/10172"
         }
     },
     {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
+        "id": "2014-11-30_k",
+        "speakers": [
+            {
+                "name": "Alessandro Campeis",
+                "bio": "Da una vita sviluppo software, da 8 anni lo faccio con una mentalità agile.<br/>Iniziando dal sito web personale fino alle applicazioni enterprise.<br/>Ho la \"fissa\" del clean code, del tdd/bdd e di imparare linguaggi di programmazione nuovi."
+            },
+            {
+                "name": "Marco Trincardi",
+                "bio": "Sono un coach e sviluppatore senior, faccio parte del team Orione di Xpeppers<br/>Il mio interesse per le metodologie agili è cominciato nel 2003 e continua tuttora.<br/>Mi sento un generalista, una persona a cui piace l’aspetto tecnico / tecnologico dei problemi ma a cui interessano anche il miglioramento dei processi aziendali e la comprensione delle dinamiche interne ed esterne al team."
+            }
+        ],
+        "title": "Document it… But just in time!!",
+        "description": "In un contesto agile la documentazione è utile solo se porta valore senza nel contempo rappresentare un peso per lo sviluppo.<br/>Per ottenere ciò è necessario capire come creare solo quello di cui abbiamo veramente bisogno, nel momento in cui ne abbiamo bisogno, nella forma più conveniente.<br/>Documentare un progetto è un’attività costosa, sia nella fase di creazione che di manutenzione. Se la documentazione prodotta non viene letta, o non veicola conoscenza, diventa uno spreco (waste).<br/>In questa sessione vogliamo mostrare con esempi reali, come un team Agile affronti l’argomento, scelga gli strumenti in funzione del contesto e sfatare il mito Agile = No Documentazione.<br/>Anche per la documentazione il nostro obbiettivo è chiaro: creare solo quello di cui abbiamo veramente bisogno, nel momento in cui ne abbiamo bisogno, nella forma più conveniente.<br/>Documentazione Just in Time!",
         "date": "2013-11-30",
         "type": "Talk",
         "language": "Italiano",
         "duration": "45",
         "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
+            "joindin": "https://joind.in/talk/view/10169"
         }
     },
     {
-        "id": "2014-11-30_",
+        "id": "2014-11-30_l",
         "speakers": [{
-            "name": "",
-            "bio": ""
+            "name": "Andrea Provaglio",
+            "bio": "Andrea Provaglio assiste aziende IT e, più in generale, quelle basate sul knowledge work nel mettere in atto modi migliori di fare business.<br/>Unisce le pratiche Agile/Lean con gli aspetti sociali e culturali delle Learning Organizations, per favorire una transizione verso moderni modelli di management.<br/>Affianca inoltre, con partiche di coaching, individui e team che vogliono migliorare sul piano sia tecnico che relazionale.<br/>In oltre vent’anni di esperienza professionale, ha lavorato in tre diversi continenti, con clienti che vanno dalle Nazioni Unite fino ad aziende piccole e dinamiche.<br/>Maggiori informazioni sono disponibili su: http://andreaprovaglio.com e http://linkedin.com/in/provaglio"
         }],
-        "title": "",
-        "description": "",
+        "title": "Dreaming",
+        "description": "Accompagnare un’idea dalla sua nascita al suo completamento (per esempio, un progetto software) è un viaggio non-lineare che alcuni sembrano essere in grado di affrontare meglio di altri, in particolare modo quando l’esatta destinazione non è chiaramente definita.<br/>È un viaggio che richiede almeno tre elementi chiave: intento, ordine e azione. Questi tre elementi sono molto più legati al business di quanto possa apparire e possono essere utilizzati come un modello efficace per capire e migliorare le dinamiche, i processi, i ruoli e gli artefatti presenti in team e aziende.<br/>In questa presentazione vedremo come i tre elementi chiave sono attivi e presenti, in modi diversi, in aziende Agile e non-Agile; come sono correlati a ruoli e pratiche Agile come Product Owner, backlog e test; in che modo possono essere utilizzati per portare maggiore focalizzazione e allineamento tra diverse aree della nostra organizzazione, azienda o team; e come possano essere una chiave di lettura della complessità organizzativa.<br/>Forniremo anche consigli pratici su come utilizzare i concetti proposti e presenteremo pratiche concrete di immediato utilizzo. Alcuni dei temi toccati saranno:<br/>saper leggere, da una nuova prospettiva, le dinamiche sommerse in organizzazioni Agile, non-Agile e quasi-Agile<br/>capire aspetti fondamentali che rendono alcune aziende e team di prodotto più efficaci e funzionali di altre<br/>comprendere lo spazio organizzativo in cui opera il ruolo di Product Owner, piuttosto che quello dei team tecnici<br/>gestire e popolare il backlog in modo allineato a un intento creativo di business.",
         "date": "2013-11-30",
         "type": "Talk",
         "language": "Italiano",
         "duration": "45",
         "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
-        }
-    },
-    {
-        "id": "2014-11-30_",
-        "speakers": [{
-            "name": "",
-            "bio": ""
-        }],
-        "title": "",
-        "description": "",
-        "date": "2013-11-30",
-        "type": "Talk",
-        "language": "Italiano",
-        "duration": "45",
-        "media": {
-            "slideshare": "http://www.slideshare.net/slideshow/embed_code/",
-            "joindin": "https://joind.in/talk/view/"
+            "vimeo": "//player.vimeo.com/video/81223128",
+            "slideshare": "http://www.slideshare.net/slideshow/embed_code/18795407",
+            "joindin": "https://joind.in/talk/view/10170"
         }
     }
 ]
